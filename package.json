@@ -1,0 +1,24 @@
+{
+  "name": "risk-of-rain-2-uk-lang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "env-cmd grunt copy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandersher/risk-of-rain-2-uk-lang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandersher/risk-of-rain-2-uk-lang/issues"
+  },
+  "homepage": "https://github.com/wandersher/risk-of-rain-2-uk-lang#readme",
+  "description": "",
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "grunt": "^1.6.1",
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
